@@ -22,7 +22,7 @@ not decided on a name yet... but you can open an issue if you have an opinion.
 
 ### Documentation
 This README presents installation and getting started information.
-See the [documentation](docs/_build/index.html) for more details.
+See the [documentation](https://diffy-ml.readthedocs.io/en/latest/) for more details.
 
 To make the documentation locally, run `make html` in the `docs` directory.
 
