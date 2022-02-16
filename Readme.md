@@ -1,5 +1,6 @@
 # DID: "Measuring dissimilarity with diffeomorphism invariance"
 
+Author: [Théophile Cantelobre](https://theophilec.github.io)
 ## What is DID? 
 
 In a nutshell, DID is a generic dissimilarity that can be used to compare 
