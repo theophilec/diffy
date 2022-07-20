@@ -1,4 +1,4 @@
-# DID: "Measuring dissimilarity with diffeomorphism invariance"
+# DID: "Measuring dissimilarity with diffeomorphism invariance" (ICML 2020)
 
 Author: [Théophile Cantelobre](https://theophilec.github.io)
 ## What is DID? 
