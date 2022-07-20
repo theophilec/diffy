@@ -16,7 +16,7 @@ reproduce the experiments in our paper.
 For more complete motivation (and all the details), see the [paper](https://arxiv.org/pdf/2202.05614.pdf):
 
 > _Measuring dissimilarity with diffeomorphism invariance_, Théophile Cantelobre, Carlo Ciliberto,
-> Benjamin Guedj, Alessandro Rudi (2022). A pre-print.
+> Benjamin Guedj, Alessandro Rudi (2022). ICML.
 
 **Wait... why is the library called `did` and not `diffy` like the repo?** We have
 not decided on a name yet... but you can open an issue if you have an opinion.
