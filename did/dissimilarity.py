@@ -29,7 +29,7 @@ class DIDEstimator(torch.nn.Module):
 
     def pre_compute(self, reg_cholesky_in):
         r_in = compute_kernel_cholesky(self.in_nystrom, self.in_kernel, reg_cholesky_in)
-        r_out = compute_kernel_cholesky(self.out_nystrom, self.in_kernel, reg_cholesky_in)
+        r_out = compute_kernel_cholesky(self.out_nystrom, self.out_kernel, reg_cholesky_in)
         self.r_in_inv = torch.inverse(r_in)
         self.r_out_inv_t = torch.inverse(r_out).T
         return self
